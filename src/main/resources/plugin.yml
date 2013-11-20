@@ -1,0 +1,9 @@
+name: CP
+main: me.noraaron1.CP.commands.CommandNote
+version: 1.0
+description: The Grief Report Command!
+
+commands:
+    note:
+        permission: 
+        
